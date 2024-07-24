@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MangoRestaurant",
+    "\\MangoRestaurant\\Mango.Services.ProductAPI",
+    "\\MangoRestaurant\\Mango.Services.ShoppingCartAPI",
+    "\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Models"
+  ],
+  "SelectedNode": "\\MangoRestaurant\\Mango.Services.ProductAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

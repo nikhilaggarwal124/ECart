@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mango.services.paymentapi:
+    image: ${DOCKER_REGISTRY-}mangoservicespaymentapi
+    build:
+      context: .
+      dockerfile: Mango.Services.PaymentAPI\Dockerfile

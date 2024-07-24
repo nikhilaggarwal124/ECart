@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ecart\\MangoRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9106CF-C97C-44BE-ADDF-40A1C67DCF6F}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|c:\\ecart\\mangorestaurant\\mango.gatewaysolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9106CF-C97C-44BE-ADDF-40A1C67DCF6F}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|solutionrelative:mango.gatewaysolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9106CF-C97C-44BE-ADDF-40A1C67DCF6F}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|c:\\ecart\\mangorestaurant\\mango.gatewaysolution\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9106CF-C97C-44BE-ADDF-40A1C67DCF6F}|Mango.GatewaySolution\\Mango.GatewaySolution.csproj|solutionrelative:mango.gatewaysolution\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E95C126-5D4C-4E6F-BA46-536979811F49}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\ecart\\mangorestaurant\\mango.services.productapi\\mango.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E95C126-5D4C-4E6F-BA46-536979811F49}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\mango.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AC5E8D-D48D-4CC8-B8CA-0EC914CD45C2}|Mango.Web\\Mango.Web.csproj|c:\\ecart\\mangorestaurant\\mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AC5E8D-D48D-4CC8-B8CA-0EC914CD45C2}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E95C126-5D4C-4E6F-BA46-536979811F49}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\ecart\\mangorestaurant\\mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E95C126-5D4C-4E6F-BA46-536979811F49}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386AC141-6027-430F-B626-E6C66910F274}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|c:\\ecart\\mangorestaurant\\mango.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386AC141-6027-430F-B626-E6C66910F274}|Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj|solutionrelative:mango.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ecart\\MangoRestaurant\\Mango.GatewaySolution\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.GatewaySolution\\Program.cs",
+              "ToolTip": "C:\\Ecart\\MangoRestaurant\\Mango.GatewaySolution\\Program.cs",
+              "RelativeToolTip": "Mango.GatewaySolution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:36:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Ecart\\MangoRestaurant\\Mango.GatewaySolution\\Startup.cs",
+              "RelativeDocumentMoniker": "Mango.GatewaySolution\\Startup.cs",
+              "ToolTip": "C:\\Ecart\\MangoRestaurant\\Mango.GatewaySolution\\Startup.cs",
+              "RelativeToolTip": "Mango.GatewaySolution\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:36:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mango.Services.ProductAPI.csproj",
+              "DocumentMoniker": "C:\\Ecart\\MangoRestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+              "ToolTip": "C:\\Ecart\\MangoRestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T15:19:46.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Ecart\\MangoRestaurant\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Ecart\\MangoRestaurant\\Mango.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mango.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAvwEEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:10:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ecart\\MangoRestaurant\\Mango.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Ecart\\MangoRestaurant\\Mango.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwHAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:09:19.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Ecart\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Ecart\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "Mango.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:22:29.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
